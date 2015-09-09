@@ -1,0 +1,145 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\Users\lizardking\StudioProjects\NightWidget\app\src\main\AndroidManifest.xml:2:1-46:12
+	package
+		ADDED from D:\Users\lizardking\StudioProjects\NightWidget\app\src\main\AndroidManifest.xml:3:11-49
+		INJECTED from D:\Users\lizardking\StudioProjects\NightWidget\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Users\lizardking\StudioProjects\NightWidget\app\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from D:\Users\lizardking\StudioProjects\NightWidget\app\src\main\AndroidManifest.xml:5:9-34
+	android:versionCode
+		ADDED from D:\Users\lizardking\StudioProjects\NightWidget\app\src\main\AndroidManifest.xml:4:11-34
+		INJECTED from D:\Users\lizardking\StudioProjects\NightWidget\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Users\lizardking\StudioProjects\NightWidget\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\Users\lizardking\StudioProjects\NightWidget\app\src\main\AndroidManifest.xml:2:11-69
+uses-sdk
+ADDED from D:\Users\lizardking\StudioProjects\NightWidget\app\src\main\AndroidManifest.xml:6:5-100
+	android:maxSdkVersion
+		ADDED from D:\Users\lizardking\StudioProjects\NightWidget\app\src\main\AndroidManifest.xml:6:42-68
+	android:targetSdkVersion
+		ADDED from D:\Users\lizardking\StudioProjects\NightWidget\app\src\main\AndroidManifest.xml:6:69-98
+		INJECTED from D:\Users\lizardking\StudioProjects\NightWidget\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Users\lizardking\StudioProjects\NightWidget\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from D:\Users\lizardking\StudioProjects\NightWidget\app\src\main\AndroidManifest.xml:6:15-41
+		INJECTED from D:\Users\lizardking\StudioProjects\NightWidget\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Users\lizardking\StudioProjects\NightWidget\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from D:\Users\lizardking\StudioProjects\NightWidget\app\src\main\AndroidManifest.xml:7:5-83
+	android:name
+		ADDED from D:\Users\lizardking\StudioProjects\NightWidget\app\src\main\AndroidManifest.xml:7:22-64
+uses-permission#android.permission.VIBRATE
+ADDED from D:\Users\lizardking\StudioProjects\NightWidget\app\src\main\AndroidManifest.xml:8:5-82
+	android:name
+		ADDED from D:\Users\lizardking\StudioProjects\NightWidget\app\src\main\AndroidManifest.xml:8:22-63
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from D:\Users\lizardking\StudioProjects\NightWidget\app\src\main\AndroidManifest.xml:9:5-92
+	android:name
+		ADDED from D:\Users\lizardking\StudioProjects\NightWidget\app\src\main\AndroidManifest.xml:9:22-73
+uses-permission#android.permission.UPDATE_DEVICE_STATS
+ADDED from D:\Users\lizardking\StudioProjects\NightWidget\app\src\main\AndroidManifest.xml:10:5-94
+	android:name
+		ADDED from D:\Users\lizardking\StudioProjects\NightWidget\app\src\main\AndroidManifest.xml:10:22-75
+uses-permission#android.permission.CHANGE_WIFI_STATE
+ADDED from D:\Users\lizardking\StudioProjects\NightWidget\app\src\main\AndroidManifest.xml:11:5-92
+	android:name
+		ADDED from D:\Users\lizardking\StudioProjects\NightWidget\app\src\main\AndroidManifest.xml:11:22-73
+uses-permission#android.permission.WAKE_LOCK
+ADDED from D:\Users\lizardking\StudioProjects\NightWidget\app\src\main\AndroidManifest.xml:12:5-84
+	android:name
+		ADDED from D:\Users\lizardking\StudioProjects\NightWidget\app\src\main\AndroidManifest.xml:12:22-65
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from D:\Users\lizardking\StudioProjects\NightWidget\app\src\main\AndroidManifest.xml:13:5-95
+	android:name
+		ADDED from D:\Users\lizardking\StudioProjects\NightWidget\app\src\main\AndroidManifest.xml:13:22-76
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from D:\Users\lizardking\StudioProjects\NightWidget\app\src\main\AndroidManifest.xml:14:5-97
+	android:name
+		ADDED from D:\Users\lizardking\StudioProjects\NightWidget\app\src\main\AndroidManifest.xml:14:22-78
+application
+ADDED from D:\Users\lizardking\StudioProjects\NightWidget\app\src\main\AndroidManifest.xml:15:5-45:19
+	android:label
+		ADDED from D:\Users\lizardking\StudioProjects\NightWidget\app\src\main\AndroidManifest.xml:15:84-116
+	android:allowBackup
+		ADDED from D:\Users\lizardking\StudioProjects\NightWidget\app\src\main\AndroidManifest.xml:15:19-45
+	android:icon
+		ADDED from D:\Users\lizardking\StudioProjects\NightWidget\app\src\main\AndroidManifest.xml:15:47-83
+activity#com.nightscoutwidget.android.settings.SettingsActivity
+ADDED from D:\Users\lizardking\StudioProjects\NightWidget\app\src\main\AndroidManifest.xml:16:9-25:14
+	android:screenOrientation
+		ADDED from D:\Users\lizardking\StudioProjects\NightWidget\app\src\main\AndroidManifest.xml:19:19-55
+	android:label
+		ADDED from D:\Users\lizardking\StudioProjects\NightWidget\app\src\main\AndroidManifest.xml:18:19-46
+	android:icon
+		ADDED from D:\Users\lizardking\StudioProjects\NightWidget\app\src\main\AndroidManifest.xml:17:19-55
+	android:name
+		ADDED from D:\Users\lizardking\StudioProjects\NightWidget\app\src\main\AndroidManifest.xml:16:19-60
+intent-filter#android.appwidget.action.APPWIDGET_CONFIGURE+android.intent.action.MAIN+net.thepurge.volumeprofiles.plus.VolumeProfilesWidget.ACTION_WIDGET_CONFIGURE
+ADDED from D:\Users\lizardking\StudioProjects\NightWidget\app\src\main\AndroidManifest.xml:20:11-24:21
+action#android.appwidget.action.APPWIDGET_CONFIGURE
+ADDED from D:\Users\lizardking\StudioProjects\NightWidget\app\src\main\AndroidManifest.xml:21:7-76
+	android:name
+		ADDED from D:\Users\lizardking\StudioProjects\NightWidget\app\src\main\AndroidManifest.xml:21:15-74
+action#android.intent.action.MAIN
+ADDED from D:\Users\lizardking\StudioProjects\NightWidget\app\src\main\AndroidManifest.xml:22:7-59
+	android:name
+		ADDED from D:\Users\lizardking\StudioProjects\NightWidget\app\src\main\AndroidManifest.xml:22:15-56
+action#net.thepurge.volumeprofiles.plus.VolumeProfilesWidget.ACTION_WIDGET_CONFIGURE
+ADDED from D:\Users\lizardking\StudioProjects\NightWidget\app\src\main\AndroidManifest.xml:23:7-109
+	android:name
+		ADDED from D:\Users\lizardking\StudioProjects\NightWidget\app\src\main\AndroidManifest.xml:23:15-107
+activity#com.nightscoutwidget.android.alerts.AlertActivity
+ADDED from D:\Users\lizardking\StudioProjects\NightWidget\app\src\main\AndroidManifest.xml:26:3-29:57
+	android:screenOrientation
+		ADDED from D:\Users\lizardking\StudioProjects\NightWidget\app\src\main\AndroidManifest.xml:29:19-55
+	android:label
+		ADDED from D:\Users\lizardking\StudioProjects\NightWidget\app\src\main\AndroidManifest.xml:28:19-52
+	android:icon
+		ADDED from D:\Users\lizardking\StudioProjects\NightWidget\app\src\main\AndroidManifest.xml:27:19-55
+	android:name
+		ADDED from D:\Users\lizardking\StudioProjects\NightWidget\app\src\main\AndroidManifest.xml:26:13-49
+service#com.nightscoutwidget.android.widget.CGMWidgetUpdater
+ADDED from D:\Users\lizardking\StudioProjects\NightWidget\app\src\main\AndroidManifest.xml:30:9-32:19
+	android:label
+		ADDED from D:\Users\lizardking\StudioProjects\NightWidget\app\src\main\AndroidManifest.xml:31:17-43
+	android:icon
+		ADDED from D:\Users\lizardking\StudioProjects\NightWidget\app\src\main\AndroidManifest.xml:30:19-55
+	android:name
+		ADDED from D:\Users\lizardking\StudioProjects\NightWidget\app\src\main\AndroidManifest.xml:31:44-83
+receiver#com.nightscoutwidget.android.alerts.AlertActivity$NotButtonListener
+ADDED from D:\Users\lizardking\StudioProjects\NightWidget\app\src\main\AndroidManifest.xml:33:9-76
+	android:name
+		ADDED from D:\Users\lizardking\StudioProjects\NightWidget\app\src\main\AndroidManifest.xml:33:19-73
+receiver#com.nightscoutwidget.android.widget.CGMWidget
+ADDED from D:\Users\lizardking\StudioProjects\NightWidget\app\src\main\AndroidManifest.xml:34:3-44:14
+	android:name
+		ADDED from D:\Users\lizardking\StudioProjects\NightWidget\app\src\main\AndroidManifest.xml:34:13-45
+intent-filter#android.appwidget.action.APPWIDGET_DELETED+android.appwidget.action.APPWIDGET_DISABLED+android.appwidget.action.APPWIDGET_ENABLED+android.appwidget.action.APPWIDGET_UPDATE+net.thepurge.volumeprofiles.plus.VolumeProfilesWidget.ACTION_WIDGET_RECEIVER
+ADDED from D:\Users\lizardking\StudioProjects\NightWidget\app\src\main\AndroidManifest.xml:35:7-41:23
+action#android.appwidget.action.APPWIDGET_ENABLED
+ADDED from D:\Users\lizardking\StudioProjects\NightWidget\app\src\main\AndroidManifest.xml:36:8-76
+	android:name
+		ADDED from D:\Users\lizardking\StudioProjects\NightWidget\app\src\main\AndroidManifest.xml:36:16-73
+action#android.appwidget.action.APPWIDGET_DELETED
+ADDED from D:\Users\lizardking\StudioProjects\NightWidget\app\src\main\AndroidManifest.xml:37:8-76
+	android:name
+		ADDED from D:\Users\lizardking\StudioProjects\NightWidget\app\src\main\AndroidManifest.xml:37:16-73
+action#android.appwidget.action.APPWIDGET_DISABLED
+ADDED from D:\Users\lizardking\StudioProjects\NightWidget\app\src\main\AndroidManifest.xml:38:8-77
+	android:name
+		ADDED from D:\Users\lizardking\StudioProjects\NightWidget\app\src\main\AndroidManifest.xml:38:16-74
+action#android.appwidget.action.APPWIDGET_UPDATE
+ADDED from D:\Users\lizardking\StudioProjects\NightWidget\app\src\main\AndroidManifest.xml:39:11-78
+	android:name
+		ADDED from D:\Users\lizardking\StudioProjects\NightWidget\app\src\main\AndroidManifest.xml:39:19-75
+action#net.thepurge.volumeprofiles.plus.VolumeProfilesWidget.ACTION_WIDGET_RECEIVER
+ADDED from D:\Users\lizardking\StudioProjects\NightWidget\app\src\main\AndroidManifest.xml:40:11-112
+	android:name
+		ADDED from D:\Users\lizardking\StudioProjects\NightWidget\app\src\main\AndroidManifest.xml:40:19-110
+meta-data#android.appwidget.provider
+ADDED from D:\Users\lizardking\StudioProjects\NightWidget\app\src\main\AndroidManifest.xml:42:7-43:67
+	android:resource
+		ADDED from D:\Users\lizardking\StudioProjects\NightWidget\app\src\main\AndroidManifest.xml:43:18-64
+	android:name
+		ADDED from D:\Users\lizardking\StudioProjects\NightWidget\app\src\main\AndroidManifest.xml:42:18-59
